@@ -1,8 +1,8 @@
 <h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="datasheet/Gearup_White.png">
-    <source media="(prefers-color-scheme: light)" srcset="datasheet/Gearup.png">
-    <img alt="GearUp Logo" src="datasheet/Gearup.png" height="25" style="vertical-align: middle; margin-right: 8px;">
+    <source media="(prefers-color-scheme: dark)" srcset="images/Gearup_White.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/Gearup.png">
+    <img alt="GearUp Logo" src="images/Gearup.png" height="25" style="vertical-align: middle; margin-right: 8px;">
   </picture>
   AirBrainH743
 </h1>
@@ -13,7 +13,7 @@ This repository hosts the datasheet, pinouts, mechanical resources, and integrat
 
 <div align="center">
 
-![AirBrain_Front](/datasheet/AirBrain_front.png)
+![AirBrain_Front](/images/AirBrain_front.png)
 
 </div>
 
@@ -37,8 +37,8 @@ Latest datasheet and pinouts: [`/datasheet`](/datasheet).
 
 <div align="center">
 
-![AirBrain_Pinout_top](/datasheet/AirBrain_pinoutTop.png)
-![AirBrain_Pinout_bottom](/datasheet/AirBrain_pinoutBottom.png)
+![AirBrain_Pinout_top](/images/AirBrain_pinoutTop.png)
+![AirBrain_Pinout_bottom](/images/AirBrain_pinoutBottom.png)
 
 </div>
 
@@ -223,7 +223,7 @@ See [`LICENSE.md`](LICENSE.md).
 
 <div align="center">
 
-![AirBrain Logo](datasheet/Gearup.png#gh-light-mode-only)
-![AirBrain Logo](datasheet/Gearup_White.png#gh-dark-mode-only)
+![AirBrain Logo](images/Gearup.png#gh-light-mode-only)
+![AirBrain Logo](images/Gearup_White.png#gh-dark-mode-only)
 
 </div>
